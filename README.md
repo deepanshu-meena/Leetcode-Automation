@@ -1,4 +1,4 @@
-# AutoLeetcode
+# Leetcode-Automation
 
 This project is designed to automate the process of solving your daily LeetCode problem and help you maintain your streak effortlessly. It provides a user-friendly application that allows you to monitor your LeetCode account and track your progress. The script uses **Selenium** for web automation to interact with the LeetCode website and **BeautifulSoup** for scraping necessary data. The user interface (UI) is built using **PyQt5** for the desktop application, while **HTML** and **CSS** are used for styling the interface. With this tool, you can easily stay on top of your daily practice and ensure you never miss a challenge.
 
@@ -177,4 +177,4 @@ You can easily modify the script to:
 - [Icecream](https://github.com/gruns/icecream) for code debuging
 
 ---
-Happy coding, and may your streak stay as unbreakable as your coffee addiction! ☕💻 Keep crushing it and let no bug stand in your way! 💥🚀
+Happy coding, and may your streak stay as unbreakable as your coffee addiction! ☕💻 Keep crushing it!! 💥🚀
